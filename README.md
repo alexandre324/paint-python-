@@ -6,6 +6,6 @@ pygame, sys, pynput.mouse, Button, Controller, keyboard, numpy and os
 
 I made a paint graphics desktop app using pygame after seeing the "Tech with Tim" video with the 15 python projects.
 
-If any can tell me why I have problems to cenvert it in .exe
+If any can tell me why I have problems to convert it in .exe
 
 Otherwise just enjoy 
